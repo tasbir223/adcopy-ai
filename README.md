@@ -2,7 +2,7 @@
 
 > AI-powered ad copy generator for every social media platform and every business.
 
-
+https://adcopy-ai-fnff.vercel.app/
 
 ---
 
