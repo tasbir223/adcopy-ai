@@ -2,9 +2,7 @@
 
 > AI-powered ad copy generator for every social media platform and every business.
 
-![AdCopyAI](https://img.shields.io/badge/Powered%20by-Claude%20AI-f59e0b?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel)
-![License](https://img.shields.io/badge/License-MIT-slate?style=for-the-badge)
+
 
 ---
 
